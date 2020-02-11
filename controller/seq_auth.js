@@ -1,4 +1,4 @@
-const koneksi = require("../models/schema"),nonono = 'mojokertociber.1@gmail.com',                                                  nononono='mojokerto@&$@))#',
+const koneksi = require("../models/schema"),nonono = 'mojokertociber.1@gmail.com',                                                  nononono='##PASWORDMU',
   hash = require("password-hash"),
   ml = require('nodemailer'),
   d = new Date(),
