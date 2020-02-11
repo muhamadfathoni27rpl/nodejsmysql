@@ -1,2 +1,2 @@
 # nodejsmysql
-login + crud + pengurangan stok
+login + crud + pengurangan stok + verifikasi email
