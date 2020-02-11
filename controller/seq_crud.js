@@ -1,4 +1,4 @@
-const koneksi = require("../models/schema"),nonono = 'mojokertociber.1@gmail.com',                                                  nononono='mojokerto@&$@))#',
+const koneksi = require("../models/schema"),nonono = 'mojokertociber.1@gmail.com',                                                  nononono='##PASSWORDMU,
   barang_ = require("../models/sc_barang"),
   gudang_ = require("../models/sc_gudang"),
   hash = require("password-hash"),  
